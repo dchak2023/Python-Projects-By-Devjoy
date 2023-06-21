@@ -1,2 +1,2 @@
 # Python-Projects-By-Devjoy
-Hi visitor, in this file I have uploaded all my python projects that I have learnt in all my Python coding journey. 
+Hi visitor, in this file I have uploaded all the python projects that I have learned in my Python coding journey. 
